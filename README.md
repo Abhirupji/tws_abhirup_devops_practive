@@ -1,2 +1,2 @@
-# tws_abhirup_devops_practive
+# tws_abhirup_devops_practice
 prepared for practicing devops
